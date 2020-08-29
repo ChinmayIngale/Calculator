@@ -6,4 +6,4 @@ It is a simple working calculator made in php.
 
 ## index
 It is a simple working calculator made using HTML+css+js.
-https://chinmayingale.github.io/Calculator/
+https://chinmayingale.github.io/Calculator/index.html
