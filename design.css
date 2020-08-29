@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+#calc{
+    margin: 0 auto;
+    border: 2px solid black;
+    border-spacing: 10px;
+    border-radius: 10px;
+}
+th{
+    height: 80px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0;
+}
+#equal{
+    background-color:#2a39e5 ;
+    color:#fff;
+}
+.exp{
+    background-color: #dfe1e5;
+}
+td{
+    text-align: center;
+}
+input{
+    height: 50px;
+    width: 70px;
+    background-color: #f1f3f4;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    text-align: center;  
+    font-size: 30px;    
+}
+input:hover, .exp:hover{
+    background-color: #c1c3c6;
+    box-shadow: 5px 5px 10px black 50%;
+}
+#output{
+    width: 95%;
+    margin: 5px;
+    text-align: right;
+    padding: 0;
+}
